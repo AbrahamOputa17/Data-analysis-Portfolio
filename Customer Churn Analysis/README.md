@@ -1,37 +1,19 @@
-# Customer Churn Analysis
+#  Automotive Sales Performance & Business Intelligence Dashboard
 
-## Project Overview
+## This project analyzes automotive sales data and transforms raw transactions into an interactive Power BI dashboard. The goal is to help businesses understand sales performance, vehicle demand, pricing, and dealership performance.
 
-_TODO: Add a concise overview of the project goals and outcomes._
+The objectives were to analyze revenue and sales trends, identify top-performing vehicle models and categories, compare dealership and regional performance, monitor average selling prices, measure year-over-year growth, and generate actionable business recommendations.
 
-## Business Problem
+The dataset contains information such as sales dates, vehicle models, body styles, colors, prices, dealers, regions, and quantities. The project followed an end-to-end analytics workflow involving data collection, cleaning, transformation, modeling, analysis, visualization, and insight generation.
 
-_TODO: Describe the business question this dashboard answers._
+Power Query was used to handle missing values, duplicates, incorrect data types, and inconsistent categories. A structured data model was developed, followed by DAX measures for Total Revenue, Cars Sold, Average Selling Price, Profit, and Year-over-Year Growth.
 
-## Dataset
+The dashboard uses KPI cards, trend charts, bar charts, matrices, maps, and interactive slicers to analyze sales performance across time, products, dealers, and regions.
 
-_TODO: Describe the data source(s), scope, and key fields used._
+Key insights include overall revenue and sales trends, top-performing vehicle models, dealership and regional performance, pricing patterns, customer preferences, and year-over-year changes.
 
-## Tools Used
+Based on the analysis, businesses can prioritize high-performing vehicles, investigate underperforming dealerships, optimize pricing, allocate inventory according to regional demand, and prepare for seasonal changes.
 
-_TODO: List tools, technologies, and techniques used (e.g., Power BI, DAX, Power Query)._
+**Tools:** Power BI, Power Query, DAX, Data Modeling, Data Cleaning, Data Visualization, Excel/CSV.
 
-## Data Preparation
-
-_TODO: Summarize data cleaning, transformation, and modeling steps._
-
-## Analysis
-
-_TODO: Explain analytical approach, measures, and calculations used._
-
-## Dashboard
-
-_TODO: Add dashboard structure details and include screenshot references from the `screenshots/` folder._
-
-## Key Insights
-
-_TODO: Capture major findings from the analysis._
-
-## Recommendations
-
-_TODO: Provide actionable recommendations based on insights._
+This project demonstrates the complete data analytics lifecycle and the ability to transform raw business data into actionable insights that support informed decision-making.
